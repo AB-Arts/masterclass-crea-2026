@@ -9,20 +9,54 @@ Quatre séances en visio, de 18h00 à 21h00.
 | 3 | Jeudi 19 novembre 2026 | À venir |
 | 4 | Mardi 24 novembre 2026 | À venir |
 
-## Ce que le formateur a annoncé pour la séance 3 (jeudi 19 novembre)
+## Séance 3 · jeudi 19 novembre · Sécuriser et habiller (plan prévu)
 
-- **Ranger ses clés d'API en sécurité** : les secrets, les fichiers d'environnement locaux.
-  C'était prévu en séance 2, reporté parce que la séance était déjà dense.
-- **Claude Design**, plus en profondeur, si le groupe le demande : faire des pages et des
-  outils à son identité (logo, couleurs), et que cette charte reste la même partout.
-- **Les cas des participants** : envoyer un cas concret via CREA avant la séance.
-- Chacun peut venir avec ce qu'il a commencé à construire. Cela fera naître des questions, et
-  le formateur y répondra.
+Le plan a été refait après la séance 2. Il peut encore être ajusté par le formateur.
 
-## Pour la séance 4 (mardi 24 novembre)
+| Heure | Contenu |
+|---|---|
+| 18h00 | Rappel des six étapes et tour des projets : où chacun en est, où il bloque |
+| 18h20 | **Ranger ses clés d'API en sécurité** : le fichier d'environnement local, les variables d'environnement sur Vercel, la lecture seule, quoi faire si une clé a fuité |
+| 19h00 | **Un cas apporté par un participant**, découpé en tranches en direct |
+| 19h30 | Pause |
+| 19h40 | **Claude Design** : une charte graphique qui dure, son handoff, et son application au prototype |
+| 20h20 | Les questions des participants, en partage d'écran |
+| 20h45 | Le devoir pour la séance 4 |
 
-- Un **devoir** est annoncé pour la dernière séance.
-- Le formateur montrera aussi comment se servir de cette skill.
+À préparer : son prototype, même tout petit, dans un dossier relié à un dépôt privé ; son compte
+Vercel relié à Claude ; un cas tiré de son métier envoyé à CREA ; son logo et ses couleurs si
+l'on veut un outil à son identité ; la liste de ses blocages, avec le message d'erreur exact.
+
+Comme dans les autres séances, le formateur montre et répond aux questions. La pratique se
+fait entre les séances.
+
+## Le devoir pour la séance 4
+
+À faire entre le 19 et le 24 novembre :
+
+1. **Construire un petit outil tiré de son métier**, avec des données fictives.
+2. **Le mettre en ligne** sur Vercel, et si possible lui appliquer sa charte.
+3. **Le montrer à deux ou trois personnes** et noter leurs réactions telles quelles.
+4. **Préparer trois minutes de présentation** : le besoin, l'outil, ce qui a bloqué.
+
+Le formateur donnera la consigne définitive en fin de séance 3. Si elle diffère, c'est la
+sienne qui compte.
+
+## Séance 4 · mardi 24 novembre · Consolider et conclure (plan prévu)
+
+| Heure | Contenu |
+|---|---|
+| 18h00 | **Présentation des devoirs** : trois minutes par personne, en partage d'écran |
+| 18h40 | Atelier de résolution : les blocages repris un par un, sur les projets des participants |
+| 19h15 | Se débloquer seul : le message d'erreur, ce qu'on attendait, ce qu'on a obtenu |
+| 19h30 | Pause |
+| 19h40 | Du prototype à la production : ce qu'il faut ajouter, et ce que cela coûte |
+| 20h10 | Décider de la suite : continuer, changer de direction ou arrêter. La fiche de décision |
+| 20h35 | Cette skill : l'installer, la mettre à jour, s'en servir |
+| 20h45 | Bilan et conclusion |
+
+Ces deux plans sont **prévus**, pas encore donnés. Sers-t'en pour dire ce qui arrive et pour
+aider à se préparer, jamais pour faire le cours à l'avance.
 
 ## Écart avec le plan prévu
 

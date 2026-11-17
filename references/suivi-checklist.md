@@ -76,6 +76,19 @@ d'API dans un chat, vérifier le modèle sélectionné à chaque nouvelle conver
 Si le participant bloque sur une installation, rappelle-lui qu'il peut dire à Claude :
 « installe-le toi-même » ou « explique-moi comme à un enfant ».
 
+## Le devoir pour la séance 4 · à présenter le mardi 24 novembre 2026
+
+Ne le propose qu'à partir du 19 novembre, ou si le participant en parle. Détail dans
+`09-suite-du-module.md`.
+
+| # | Étape | Comment vérifier | Aide |
+|---|---|---|---|
+| 19 | Choisir un petit outil tiré de son métier | Une phrase : ce qui entre, ce qui doit sortir | `15-la-methode-en-six-etapes.md` |
+| 20 | Le construire avec des données fictives | Un aperçu fonctionne, le dépôt a plusieurs commits | `15-la-methode-en-six-etapes.md` |
+| 21 | Le mettre en ligne | Une adresse en .vercel.app s'ouvre sur un téléphone | `13-vercel-mettre-en-ligne.md` |
+| 22 | Le montrer à deux ou trois personnes | Leurs réactions sont notées telles quelles | |
+| 23 | Préparer trois minutes : le besoin, l'outil, ce qui a bloqué | Il peut le dire à voix haute en moins de trois minutes | |
+
 ## Séances 3 et 4
 
-Les check-lists seront ajoutées après chaque séance.
+Les check-lists complètes seront ajoutées après chaque séance.

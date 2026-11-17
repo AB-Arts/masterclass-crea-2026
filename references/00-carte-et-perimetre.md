@@ -38,7 +38,7 @@ modèle léger et peu coûteux. L'effort est fort au début, puis il retombe. Vo
 | La protection des données : compte entreprise, DPA, DPO, serveurs européens | `07-cles-api-et-donnees.md` |
 | CLI, MCP, API : trois façons de connecter Claude (survol) | `07-cles-api-et-donnees.md` |
 | Les questions posées par le groupe, le dépannage | `08-questions-du-groupe-et-depannage.md` |
-| Ce qui arrive dans les séances 2, 3 et 4 | `09-suite-du-module.md` |
+| Le plan prévu des séances 3 et 4, le devoir pour la séance 4 | `09-suite-du-module.md` |
 | La check-list de suivi | `suivi-checklist.md` |
 
 ## Séance 2 · 17 novembre 2026 · API, mise en ligne avec Vercel, et la méthode
