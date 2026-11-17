@@ -7,8 +7,8 @@ semaines. Voici le déroulé, pour le refaire chez soi.
 ## Ce qui a été produit
 
 - Le code de la démo, sur GitHub : https://github.com/AB-Arts/Crea.git
-  (dépôt du formateur ; s'il n'est pas accessible, c'est qu'il est privé : demander l'accès à
-  Anthony).
+  (dépôt du formateur, rendu public après la séance : c'est un exemple à consulter).
+- L'application publiée en séance 2 : https://crea2027.vercel.app
 - Le Google Sheet rempli par Claude à partir du tableau de bord : le lien se trouve dans le PDF
   récapitulatif de la séance 1, page « La démonstration, pas à pas ».
 

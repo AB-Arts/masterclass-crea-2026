@@ -41,6 +41,10 @@ Dernière mise à jour : [date]
 - [ ] 2. Claude Desktop installé
 - [ ] ...
 
+## Séance 2 · avant le 19 novembre
+- [ ] 11. Les six étapes de la méthode
+- [ ] ...
+
 ## Où je bloque
 - [blocage, avec le message d'erreur exact si possible]
 
@@ -50,6 +54,28 @@ Dernière mise à jour : [date]
 
 Ne jamais y écrire de clé d'API, de mot de passe ni de donnée confidentielle.
 
-## Séances 2, 3 et 4
+## Après la séance 2 · à faire avant le jeudi 19 novembre 2026
+
+Ne propose cette liste que si les étapes 1 à 9 de la séance 1 sont faites. Sinon, finis
+d'abord la séance 1.
+
+| # | Étape | Comment vérifier | Aide |
+|---|---|---|---|
+| 11 | Savoir refaire les six étapes de la méthode sans aide | Il peut les redire dans l'ordre | `15-la-methode-en-six-etapes.md` |
+| 12 | Créer son compte Vercel (projet personnel) | Il voit son tableau de bord Vercel | `13-vercel-mettre-en-ligne.md` |
+| 13 | Relier Claude à Vercel | Claude confirme qu'il peut déployer | `13-vercel-mettre-en-ligne.md` |
+| 14 | Construire un petit prototype à soi, avec des données fictives | Un aperçu s'affiche, et le dépôt a au moins 2 commits | `15-la-methode-en-six-etapes.md` |
+| 15 | Demander à Claude de préparer le code pour Vercel, puis commit | Un nouveau commit apparaît sur GitHub | `13-vercel-mettre-en-ligne.md` |
+| 16 | Importer le dépôt dans Vercel et déployer | Une adresse en .vercel.app s'ouvre | `13-vercel-mettre-en-ligne.md` |
+| 17 | Demander une modification et voir le site se mettre à jour seul | La modification est visible en ligne | `13-vercel-mettre-en-ligne.md` |
+| 18 | Préparer un cas tiré de son métier et l'envoyer via CREA | Trois lignes : ce qui entre, ce qui doit sortir, ce qui se fait à la main | `15-la-methode-en-six-etapes.md` |
+
+Rappels à glisser : pas de données sensibles, pas de vraies données de clients, aucune clé
+d'API dans un chat, vérifier le modèle sélectionné à chaque nouvelle conversation.
+
+Si le participant bloque sur une installation, rappelle-lui qu'il peut dire à Claude :
+« installe-le toi-même » ou « explique-moi comme à un enfant ».
+
+## Séances 3 et 4
 
 Les check-lists seront ajoutées après chaque séance.

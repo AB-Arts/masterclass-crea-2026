@@ -41,12 +41,17 @@ references/
   08-questions-du-groupe-et-depannage.md  /
   09-suite-du-module.md                   ce qui arrive dans les séances suivantes
   10-catalogue-academy.md                 les formations AB-Arts, pour aller plus loin
+  11-seance2-rappels-et-complements.md    \
+  12-api-et-cles-api.md                    |
+  13-vercel-mettre-en-ligne.md             > séance 2 (17 novembre 2026)
+  14-vraies-donnees-limites-et-exemples.md |
+  15-la-methode-en-six-etapes.md          /
   suivi-checklist.md                      la check-list de suivi et le modèle de fichier
 ```
 
 ## Mettre à jour après chaque séance
 
-1. Ajouter les fichiers `references/11-...md` et suivants avec les nouveaux sujets.
+1. Ajouter les fichiers `references/16-...md` et suivants avec les nouveaux sujets.
 2. Compléter `00-carte-et-perimetre.md` : ajouter la séance, sortir les sujets de « pas encore
    vu ».
 3. Mettre à jour `09-suite-du-module.md` et ajouter la check-list de la séance dans

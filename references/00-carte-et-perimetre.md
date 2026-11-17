@@ -4,7 +4,7 @@ Cette carte dit **ce qui a été vu** dans le Module 5 « Prototypage rapide & M
 (CREA Genève, Anthony Beth, AB-Arts) et **où le trouver**. Tout ce qui n'est pas listé comme
 « vu » se traite selon la section 3 de `SKILL.md`.
 
-État de la base : **séance 1 sur 4** (12 novembre 2026).
+État de la base : **séances 1 et 2 sur 4** (12 et 17 novembre 2026).
 
 ## Le fil rouge du module
 
@@ -41,13 +41,44 @@ modèle léger et peu coûteux. L'effort est fort au début, puis il retombe. Vo
 | Ce qui arrive dans les séances 2, 3 et 4 | `09-suite-du-module.md` |
 | La check-list de suivi | `suivi-checklist.md` |
 
-## Sujets effleurés en séance 1 (réponds ce qui a été dit, le détail vient plus tard)
+## Séance 2 · 17 novembre 2026 · API, mise en ligne avec Vercel, et la méthode
 
-- **Les clés d'API en pratique** : on a vu ce que c'est et la règle « jamais dans un chat ».
-  Comment les ranger en sécurité est annoncé pour la séance 2.
-- **Claude Design** : cité comme l'outil qui produit le design et son handoff. Annoncé pour la
-  séance 2.
-- **Vercel** : cité comme l'outil qui met l'application en ligne. Pas encore pratiqué.
+| Sujet | Fichier |
+|---|---|
+| Les deux documents par séance (plan et récapitulatif) | `11-seance2-rappels-et-complements.md` |
+| Le fichier .md, langue commune des modèles | `11-seance2-rappels-et-complements.md` |
+| Le handover d'une conversation du mode Chat, « un chat, une idée, un fichier » | `11-seance2-rappels-et-complements.md` |
+| L'affinage, conditionner l'IA sans se laisser conditionner, les fondamentaux | `11-seance2-rappels-et-complements.md` |
+| Le front et le back, la stack et l'image de la maison | `11-seance2-rappels-et-complements.md` |
+| Les modèles : précisions sur l'effort, les quotas, Fable compté à part, le joker | `11-seance2-rappels-et-complements.md` |
+| L'API et la clé d'API : la porte et la serrure, la pièce avec la douche | `12-api-et-cles-api.md` |
+| Le coût à l'appel, la limitation d'une clé à un domaine, la console Google Cloud | `12-api-et-cles-api.md` |
+| CLI, MCP, API : trois tunnels | `12-api-et-cles-api.md` |
+| Se connecter « avec Google » : une signature numérique | `12-api-et-cles-api.md` |
+| Vercel : à quoi ça sert, créer son compte, projet personnel ou commercial | `13-vercel-mettre-en-ligne.md` |
+| Relier Claude à Vercel, publier son application, l'adresse en .vercel.app | `13-vercel-mettre-en-ligne.md` |
+| Le redéploiement automatique, les routes, le responsive, les tests et les régressions | `13-vercel-mettre-en-ligne.md` |
+| Le nom de domaine, Infomaniak, Netlify, Lovable | `13-vercel-mettre-en-ligne.md` |
+| Prototype, pas production | `13-vercel-mettre-en-ligne.md` |
+| Brancher de vraies données (export, clé d'API, lecture seule) | `14-vraies-donnees-limites-et-exemples.md` |
+| Coller une erreur dans la conversation, toujours vérifier le résultat | `14-vraies-donnees-limites-et-exemples.md` |
+| Les données publiques, les limites de sécurité des modèles | `14-vraies-donnees-limites-et-exemples.md` |
+| Le contrôle à distance depuis le téléphone | `14-vraies-donnees-limites-et-exemples.md` |
+| Claude ou ChatGPT, le temps qu'il faut pour changer ses habitudes | `14-vraies-donnees-limites-et-exemples.md` |
+| La méthode en six étapes, l'ordre à respecter, vérifier où l'on est | `15-la-methode-en-six-etapes.md` |
+| « Demande à Claude », apporter un cas | `15-la-methode-en-six-etapes.md` |
+
+Ce qui a été produit en séance 2 : l'application de démo publiée sur
+https://crea2027.vercel.app, à partir du dépôt https://github.com/AB-Arts/Crea (public).
+
+## Sujets effleurés (réponds ce qui a été dit, le détail vient plus tard)
+
+- **Ranger ses clés d'API en sécurité** (les secrets, les variables d'environnement, les
+  fichiers d'environnement locaux) : annoncé en séance 2, puis **reporté à la séance 3**. On
+  sait seulement que la clé ne va ni dans un chat, ni dans le site, ni sur GitHub.
+- **Claude Design** : montré très vite en fin de séance 2 (des pages à l'identité d'un
+  client). Le formateur approfondira en séance 3 si le groupe le demande.
+- **Le nom de domaine personnalisé** : le principe est dit, pas la manipulation.
 - **MCP** : montré sur un exemple (Claude qui pilote un logiciel de montage vidéo). Le
   participant qui a dit « je ne suis pas encore au clair avec API, MCP » a eu pour réponse
   « c'est normal » : on y revient.
@@ -55,10 +86,11 @@ modèle léger et peu coûteux. L'effort est fort au début, puis il retombe. Vo
 
 ## Pas encore vu (ne fais pas le cours à l'avance)
 
-- Supabase (base de données) et Cloudflare (stockage de fichiers) : font partie de la stack du
-  module, mais n'ont pas été installés en séance 1.
-- Next.js et React.
-- La mise en ligne pas à pas.
+- Supabase (base de données) et Cloudflare (stockage de fichiers) : cités comme éléments de la
+  stack, pas installés ni pratiqués.
+- Next.js et React en détail : Next.js est seulement nommé comme la technologie utilisée pour
+  publier sur Vercel.
+- Les paiements (Stripe) : seulement cités.
 - Tout sujet qui n'apparaît nulle part dans cette carte.
 
 ## Rappel de posture
