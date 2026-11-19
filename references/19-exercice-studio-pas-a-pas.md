@@ -3,6 +3,10 @@
 Construit en direct le 19 novembre 2026, puis dicté par le formateur comme marche à suivre.
 C'est aussi le devoir proposé pour la séance 4 (voir `09-suite-du-module.md`).
 
+L'application de la séance s'appelle « Rosée Studio ». Elle a un thème clair et un thème
+sombre, et s'adapte au téléphone. Des captures d'écran figurent dans le récapitulatif PDF de
+la séance 3.
+
 L'application : une zone de texte où l'on demande ce que l'on veut générer, la dictée à la
 voix, et en dessous une image, un son ou une vidéo selon la demande.
 
@@ -38,6 +42,8 @@ reste dans .env.local sur l'ordinateur, et on la recopie à la main dans Vercel.
 7. **Créer la clé dans Google AI Studio** : aistudio.google.com, la petite clé en bas à
    gauche, régler le moyen de paiement si besoin, puis « Create API key » en haut à droite.
 8. **Coller la clé dans .env.local**, après le signe égal, et enregistrer. Nulle part ailleurs.
+   Dans l'application de la séance, la ligne s'appelle `GEMINI_API_KEY=`. Le nom exact est
+   celui que Claude a prévu dans le fichier.
 9. **Créer un dépôt privé sur GitHub**, donner son lien à Claude : « Voici le dépôt du projet.
    Vérifie que .env.local est ignoré par Git, puis commit. »
 10. **Tester sur son ordinateur** : l'application s'ouvre dans l'aperçu, à une adresse qui
