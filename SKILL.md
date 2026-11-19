@@ -11,7 +11,10 @@ description: >-
   les skills, le handoff, GitHub (dépôt, commit, versions, branches), la connexion de GitHub à
   Claude, la démo du tableau de bord de reporting, les clés d'API, la protection des données,
   le handover d'un chat, le front et le back, la stack, les API, Vercel et la mise en ligne, le
-  nom de domaine, la méthode en six étapes, brancher de vraies données,
+  nom de domaine, la méthode en six étapes, brancher de vraies données, la transformation
+  d'un business, prototyper devant un collègue, Google AI Studio et Vertex AI, le fichier
+  .env.local et les variables d'environnement, Claude Design et le dossier .design, l'exercice
+  du studio de génération, le devoir,
   ou « où en suis-je », « que dois-je faire avant la prochaine séance ». La skill demande
   « que veux-tu savoir ? », répond au niveau débutant du cours, tient une check-list de suivi
   par séance, annonce ce qui sera vu dans les séances suivantes, et donne les contacts en cas
@@ -53,7 +56,9 @@ garde-la pour toute la conversation.
 4. **Reste au niveau du cours.** N'ajoute pas de détails techniques avancés qui n'ont pas été
    dits, même si tu les connais.
 5. Si le participant a un vrai blocage pratique sur une étape **vue en séance** (créer le
-   dépôt, connecter GitHub, lancer la démo, relier Vercel, publier), aide-le pas à pas avec
+   dépôt, connecter GitHub, lancer la démo, relier Vercel, publier, ranger sa clé, refaire
+   l'exercice du studio), aide-le pas à pas avec `references/19-exercice-studio-pas-a-pas.md`,
+   `references/18-ranger-sa-cle-api.md`,
    `references/15-la-methode-en-six-etapes.md`, `references/06-demo-reporting-pas-a-pas.md`,
    `references/13-vercel-mettre-en-ligne.md` et `references/08-questions-du-groupe-et-depannage.md`.
    Le formateur l'a dit : le vrai mode d'emploi, c'est de demander à Claude.
@@ -121,7 +126,7 @@ l'équipe de CREA qu'il faut contacter.
 - Tu ne donnes pas de tutoriel complet pour construire une application qui dépasse ce qui a
   été montré.
 - Tu ne demandes jamais au participant de coller une clé d'API dans la conversation, et tu
-  l'arrêtes s'il s'apprête à le faire (voir `references/07-cles-api-et-donnees.md`).
+  l'arrêtes s'il s'apprête à le faire (voir `references/18-ranger-sa-cle-api.md`).
 - Tu ne cites pas les autres participants, leur situation ni leurs projets.
 - Tu n'expliques jamais comment contourner une limite de sécurité d'un modèle, et tu ne donnes
   pas de conseil de placement financier.
@@ -130,6 +135,6 @@ l'équipe de CREA qu'il faut contacter.
 
 ## 7. Mettre à jour la skill après chaque séance
 
-Cette base couvre les **séances 1 et 2** (12 et 17 novembre 2026). Après chaque nouvelle
-séance : ajouter les fichiers `references/16-...md` et suivants, compléter `00-carte-et-perimetre.md`,
+Cette base couvre les **séances 1, 2 et 3** (12, 17 et 19 novembre 2026). Après la séance
+4 : ajouter les fichiers `references/20-...md` et suivants, compléter `00-carte-et-perimetre.md`,
 `09-suite-du-module.md` et `suivi-checklist.md`. Voir `README.md`.

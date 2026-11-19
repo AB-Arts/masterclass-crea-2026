@@ -104,6 +104,9 @@ construire, commit, puis Vercel.
 Voir `13-vercel-mettre-en-ligne.md`. Vérifier qu'on est en mode Code, accepter l'installation
 de Node.js, valider dans le navigateur avec le code reçu par email.
 
+**Mon application en ligne ne génère rien, ou je ne sais pas où mettre ma clé (séance 3).**
+Voir `18-ranger-sa-cle-api.md` et `19-exercice-studio-pas-a-pas.md`.
+
 **Toujours bloqué ?**
 Noter le blocage dans « Questions pour Anthony » du fichier de suivi, et le montrer en partage
 d'écran à la prochaine séance. Ou écrire à info@ab-arts.be.

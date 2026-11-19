@@ -18,7 +18,7 @@ outil de reporting du commerce, sans licence supplémentaire, et sur mesure.
 
 Deux précautions, parce qu'on ne joue plus avec des données fictives :
 
-1. La clé d'API se range de manière sécurisée (au programme de la séance 3).
+1. La clé d'API se range de manière sécurisée (vu en séance 3, voir `18-ranger-sa-cle-api.md`).
 2. On demande un accès **en lecture seule**. Même si la clé se perd, personne ne peut modifier
    ou effacer les données.
 

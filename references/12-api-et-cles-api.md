@@ -53,7 +53,7 @@ fonctionne alors que depuis votre site. Si elle est volée, elle ne sert à rien
 ## Où range-t-on la clé, alors ?
 
 Question posée : « on génère la clé, puis on la met sur notre site ? » Non. On ne la met pas
-dans le site. Deux endroits prévus pour cela, annoncés en séance 2 puis **reportés à la
+dans le site. Deux endroits prévus pour cela, annoncés en séance 2 et **pratiqués en
 séance 3** :
 
 - les **secrets** (chez Vercel : les *variables d'environnement*) : l'endroit sécurisé où une
@@ -61,8 +61,7 @@ séance 3** :
 - les **fichiers d'environnement locaux** : un fichier sur votre ordinateur qui garde les clés
   sans les envoyer sur GitHub ni les publier.
 
-Le détail pratique sera vu en séance 3. D'ici là, n'explique pas la manipulation : dis que
-c'est au programme et propose de noter la question pour Anthony.
+Le détail pratique a été vu en séance 3 : voir `18-ranger-sa-cle-api.md`.
 
 Autre précaution donnée en séance 2 : quand on branche un outil sur de vraies données, on
 demande une clé **en lecture seule**. Voir `14-vraies-donnees-limites-et-exemples.md`.

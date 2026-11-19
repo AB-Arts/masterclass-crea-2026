@@ -45,6 +45,10 @@ Dernière mise à jour : [date]
 - [ ] 11. Les six étapes de la méthode
 - [ ] ...
 
+## Séance 3 · le devoir, avant le 24 novembre
+- [ ] 19. Ce que je construis
+- [ ] ...
+
 ## Où je bloque
 - [blocage, avec le message d'erreur exact si possible]
 
@@ -76,19 +80,32 @@ d'API dans un chat, vérifier le modèle sélectionné à chaque nouvelle conver
 Si le participant bloque sur une installation, rappelle-lui qu'il peut dire à Claude :
 « installe-le toi-même » ou « explique-moi comme à un enfant ».
 
-## Le devoir pour la séance 4 · à présenter le mardi 24 novembre 2026
+## Après la séance 3 · le devoir, à apporter le mardi 24 novembre 2026
 
-Ne le propose qu'à partir du 19 novembre, ou si le participant en parle. Détail dans
-`09-suite-du-module.md`.
+Le devoir : construire une application, et noter ce qui bloque. Le formateur propose de
+refaire le petit studio de génération. Le participant peut aussi construire autre chose : dans
+ce cas, saute les étapes qui parlent de la clé s'il n'en utilise pas. Détail dans
+`09-suite-du-module.md` et `19-exercice-studio-pas-a-pas.md`.
 
 | # | Étape | Comment vérifier | Aide |
 |---|---|---|---|
-| 19 | Choisir un petit outil tiré de son métier | Une phrase : ce qui entre, ce qui doit sortir | `15-la-methode-en-six-etapes.md` |
-| 20 | Le construire avec des données fictives | Un aperçu fonctionne, le dépôt a plusieurs commits | `15-la-methode-en-six-etapes.md` |
-| 21 | Le mettre en ligne | Une adresse en .vercel.app s'ouvre sur un téléphone | `13-vercel-mettre-en-ligne.md` |
-| 22 | Le montrer à deux ou trois personnes | Leurs réactions sont notées telles quelles | |
-| 23 | Préparer trois minutes : le besoin, l'outil, ce qui a bloqué | Il peut le dire à voix haute en moins de trois minutes | |
+| 19 | Choisir ce que l'on construit | Une phrase : ce qui entre, ce qui doit sortir | `16-seance3-transformer-un-business.md` |
+| 20 | Créer le dossier, le relier à Claude en mode Code, décrire l'application | Un aperçu s'affiche | `19-exercice-studio-pas-a-pas.md` |
+| 21 | Faire créer le fichier .env.local | Le fichier existe, avec une ligne en attente de la clé | `18-ranger-sa-cle-api.md` |
+| 22 | Créer sa clé dans Google AI Studio et la coller dans .env.local | L'application génère une image en local | `19-exercice-studio-pas-a-pas.md` |
+| 23 | Créer un dépôt privé et faire un commit | Le dépôt affiche le code, sans le fichier .env.local | `18-ranger-sa-cle-api.md` |
+| 24 | Tester et corriger en local | Au moins une correction demandée, puis un commit | `19-exercice-studio-pas-a-pas.md` |
+| 25 | Mettre en ligne et recopier la clé dans Vercel | L'application en ligne génère une image | `18-ranger-sa-cle-api.md` |
+| 26 | Noter ses blocages, avec le message d'erreur exact | La liste est dans « Où je bloque » du fichier de suivi | |
+| 27 | Supprimer sa clé quand on a fini | La clé n'apparaît plus dans Google AI Studio | `18-ranger-sa-cle-api.md` |
 
-## Séances 3 et 4
+Les étapes du design (Claude Design, dossier .design) sont facultatives.
 
-Les check-lists complètes seront ajoutées après chaque séance.
+Rappels à glisser : aucune clé dans un chat ni sur GitHub, commencer par des images, éviter la
+vidéo qui coûte cher, ne pas partager l'adresse de l'application en ligne.
+
+Ne vérifie jamais une clé en demandant au participant de te la montrer.
+
+## Séance 4
+
+La check-list sera ajoutée après la séance.

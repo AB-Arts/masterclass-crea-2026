@@ -4,7 +4,7 @@ Cette carte dit **ce qui a été vu** dans le Module 5 « Prototypage rapide & M
 (CREA Genève, Anthony Beth, AB-Arts) et **où le trouver**. Tout ce qui n'est pas listé comme
 « vu » se traite selon la section 3 de `SKILL.md`.
 
-État de la base : **séances 1 et 2 sur 4** (12 et 17 novembre 2026).
+État de la base : **séances 1, 2 et 3 sur 4** (12, 17 et 19 novembre 2026).
 
 ## Le fil rouge du module
 
@@ -38,7 +38,7 @@ modèle léger et peu coûteux. L'effort est fort au début, puis il retombe. Vo
 | La protection des données : compte entreprise, DPA, DPO, serveurs européens | `07-cles-api-et-donnees.md` |
 | CLI, MCP, API : trois façons de connecter Claude (survol) | `07-cles-api-et-donnees.md` |
 | Les questions posées par le groupe, le dépannage | `08-questions-du-groupe-et-depannage.md` |
-| Le plan prévu des séances 3 et 4, le devoir pour la séance 4 | `09-suite-du-module.md` |
+| Le devoir pour la séance 4, et ce qui est prévu ce jour-là | `09-suite-du-module.md` |
 | La check-list de suivi | `suivi-checklist.md` |
 
 ## Séance 2 · 17 novembre 2026 · API, mise en ligne avec Vercel, et la méthode
@@ -71,26 +71,41 @@ modèle léger et peu coûteux. L'effort est fort au début, puis il retombe. Vo
 Ce qui a été produit en séance 2 : l'application de démo publiée sur
 https://crea2027.vercel.app, à partir du dépôt https://github.com/AB-Arts/Crea (public).
 
+## Séance 3 · 19 novembre 2026 · Transformer un business, et une application de bout en bout
+
+| Sujet | Fichier |
+|---|---|
+| « Ce n'est pas un logiciel » : un business est une gestion de problèmes, l'exemple du camion | `16-seance3-transformer-un-business.md` |
+| Pas de marche à suivre, partir du besoin des gens, être généraliste et curieux | `16-seance3-transformer-un-business.md` |
+| L'artisan et son apprenti, la valeur qui se déplace | `16-seance3-transformer-un-business.md` |
+| Prototyper devant la personne : écouter, transcrire, construire, corriger, remettre | `16-seance3-transformer-un-business.md` |
+| Le prototype à la place du PowerPoint, la skill fournie par le service informatique | `16-seance3-transformer-un-business.md` |
+| Les questions du groupe : facturer, les métiers, les enfants, piloter son ordinateur | `16-seance3-transformer-un-business.md` |
+| Google AI Studio et Vertex AI : la différence en termes de gouvernance | `17-google-ai-studio-et-vertex.md` |
+| Une clé pour l'image, la vidéo, la voix, la musique ; ce que cela coûte | `17-google-ai-studio-et-vertex.md` |
+| Les droits sur ce qui est généré, signaler un contenu produit par une IA | `17-google-ai-studio-et-vertex.md` |
+| Ranger sa clé : le fichier .env.local, les variables d'environnement de Vercel | `18-ranger-sa-cle-api.md` |
+| Quoi faire si une clé a fuité, supprimer la clé après une démonstration | `18-ranger-sa-cle-api.md` |
+| L'exercice : le petit studio de génération, la stack et les treize étapes | `19-exercice-studio-pas-a-pas.md` |
+| Claude Design : un design à part, le dossier .design et son handoff | `19-exercice-studio-pas-a-pas.md` |
+| Tester en local (localhost), pas de base de données, Supabase en deux mots | `19-exercice-studio-pas-a-pas.md` |
+
 ## Sujets effleurés (réponds ce qui a été dit, le détail vient plus tard)
 
-- **Ranger ses clés d'API en sécurité** (les secrets, les variables d'environnement, les
-  fichiers d'environnement locaux) : annoncé en séance 2, puis **reporté à la séance 3**. On
-  sait seulement que la clé ne va ni dans un chat, ni dans le site, ni sur GitHub.
-- **Claude Design** : montré très vite en fin de séance 2 (des pages à l'identité d'un
-  client). Le formateur approfondira en séance 3 si le groupe le demande.
+- **Supabase** (base de données) : cité en séance 3 comme la suite logique, avec la façon de
+  le relier. Pas installé ni pratiqué. Voir `19-exercice-studio-pas-a-pas.md`.
+- **Les connexions MCP pour générer des images** : le formateur a seulement dit que cela
+  existe.
+- **Vertex AI et l'outil en ligne de commande de Google Cloud** : expliqués, pas manipulés.
 - **Le nom de domaine personnalisé** : le principe est dit, pas la manipulation.
-- **MCP** : montré sur un exemple (Claude qui pilote un logiciel de montage vidéo). Le
-  participant qui a dit « je ne suis pas encore au clair avec API, MCP » a eu pour réponse
-  « c'est normal » : on y revient.
 - **Les tâches planifiées, les tests automatiques, les agents** : survolés.
+- **Les communautés et le code ouvert sur GitHub** : annoncé en séance 3, pas développé.
 
-## Pas encore vu (ne fais pas le cours à l'avance)
+## Pas vu (ne fais pas le cours à l'avance)
 
-- Supabase (base de données) et Cloudflare (stockage de fichiers) : cités comme éléments de la
-  stack, pas installés ni pratiqués.
-- Next.js et React en détail : Next.js est seulement nommé comme la technologie utilisée pour
-  publier sur Vercel.
-- Les paiements (Stripe) : seulement cités.
+- Cloudflare (stockage de fichiers) : cité comme élément de la stack, pas pratiqué.
+- Les comptes d'utilisateurs, les paiements (Stripe) : seulement cités.
+- Next.js et React en détail : seulement nommés.
 - Tout sujet qui n'apparaît nulle part dans cette carte.
 
 ## Rappel de posture
